@@ -27,6 +27,9 @@ public class TestConvertBlackbox {
 
     @ParameterizedTest
     @CsvSource({
+            "1.000000, 0.001000, 0.000000",  // equivalence 1
+            "2.500000, 10.000000, 25.000000",// equivalence 2
+
             "0.000000, 0.000000, 0.000000",
             "0.000000, 0.100000, 0.000000",
             "0.000000, 0.010000, 0.000000",
