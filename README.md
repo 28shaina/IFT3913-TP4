@@ -1,6 +1,8 @@
 # IFT3913-TP4
 Noms: Shaïna Labatte (20191105) YUE ZHU (20151663)
 
+https://github.com/28shaina/IFT3913-TP4.git
+
 Dans un environnement de développement intégré (IDE) tel que IntelliJ IDEA, vous pouvez généralement exécuter des tests en sélectionnant 
 la classe de test appropriée (par exemple, CurrencyTest ou MainWindowTest) et en choisissant l'option "Run".
 
